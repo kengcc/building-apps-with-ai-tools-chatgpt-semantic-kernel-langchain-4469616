@@ -1,3 +1,6 @@
+Need paid OpenAI API access
+-----------------------------
+
 # Building Apps with AI Tools: ChatGPT, Semantic Kernel, and Langchain
 This is the repository for the LinkedIn Learning course Building Apps with AI Tools: ChatGPT, Semantic Kernel, and Langchain. The full course is available from [LinkedIn Learning][lil-course-url].
 
